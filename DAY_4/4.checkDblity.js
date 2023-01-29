@@ -1,4 +1,4 @@
-//4. Write a javascript program using function to check whether a number is divisible by 5 and 11 or not.
+4. Write a javascript program using function to check whether a number is divisible by 5 and 11 or not.
 
 function checkDivbility(num) {
   if (num % 5 == 0) {
