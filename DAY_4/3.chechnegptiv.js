@@ -1,4 +1,4 @@
-// //Write a javascript program using function to check whether a number is negative, positive or zero.//
+Write a javascript program using function to check whether a number is negative, positive or zero.//
 function checkNo(num) {
   if (num > 0) {
     console.log("inside condition 1");
